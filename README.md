@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="" height="137px" src="https://github-readme-stats-ruby-one.vercel.app/api?username=voluntexi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voluntexi)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 😄 welcome
 <!--
