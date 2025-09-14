@@ -3,10 +3,10 @@
 
 ### 😄 welcome
 
-
+<!--
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 **voluntexi/voluntexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <!-- 
 Here are some ideas to get you started:
 
