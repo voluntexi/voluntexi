@@ -2,7 +2,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voluntexi)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 😄 welcome
-
+- [![visitors](https://visitor-badge.laobi.icu/badge?page_id=voluntexi.voluntexi)](https://github.com/voluntexi)
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 **voluntexi/voluntexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
